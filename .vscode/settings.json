@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ip.h": "c",
+        "ether.h": "c",
+        "if_ether.h": "c",
+        "stdio.h": "c",
+        "ip6.h": "c",
+        "netdb.h": "c",
+        "if_arp.h": "c"
+    }
+}
